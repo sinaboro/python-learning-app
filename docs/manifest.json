@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "파이썬 첫걸음",
+  "short_name": "파이썬",
+  "description": "처음 배우는 파이썬 학습 앱. 교안 12장, 예제를 폰에서 바로 실행하고 퀴즈로 확인해요.",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f7fb",
+  "theme_color": "#1f3b73",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
